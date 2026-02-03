@@ -39,6 +39,8 @@ Other classes will also work with these oral histories to build out exhibits, bl
 published in public facing or academic research, but that is not the primary goal. The project prioritizes community goals and we have developed this project collaboratively 
 with our community partners.
 
+---
+
 ## Team Members 
 
 **Dr. Marygold Walsh-Dilley**, University of New Mexico <br>
