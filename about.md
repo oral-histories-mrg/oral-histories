@@ -16,7 +16,7 @@ Food Systems Collaborative and community members involved in food systems work
 during a Spring 2025 workshop. Casey Holland first articulated the idea, then we continued 
 to work together to develop it.
 
-The goals of the project are:
+The goals of the project are: <br>
 1) To contribute to the goals of our community partners to capture place-based 
 knowledge that can support resilience in our local food system, document the 
 knowledge of experienced farmers, and share this knowledge with others.
