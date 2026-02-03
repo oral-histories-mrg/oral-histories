@@ -3,7 +3,7 @@ title: Contact Us
 homepage: TRUE 
 layout: base
 summary: Contact us with questions! 
-tumbnail: 
+thumbnail: 
 date: 2026-01-20
 ---
 
