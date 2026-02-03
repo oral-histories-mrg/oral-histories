@@ -4,7 +4,7 @@ layout: base
 date: 2025-09-30
 homepage: TRUE
 position: 3
-summary: 
+summary: This links to the Center for Southwest Research and Special Collections Archives
 thumbnail: 
 ---
 
