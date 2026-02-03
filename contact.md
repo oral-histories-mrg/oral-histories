@@ -2,6 +2,7 @@
 title: Contact Us
 homepage: TRUE 
 layout: base
+position: 5
 summary: Contact us with questions! 
 thumbnail: 
 date: 2026-01-20
