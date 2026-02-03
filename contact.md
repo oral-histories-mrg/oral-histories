@@ -2,6 +2,8 @@
 title: Contact Us
 homepage: TRUE 
 layout: base
+summary: Contact us with questions! 
+tumbnail: 
 date: 2026-01-20
 ---
 
