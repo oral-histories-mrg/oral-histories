@@ -14,7 +14,7 @@ We are conducting oral history interviews with place-based farmers in the Middle
 
 ### Team Members 
 
-Dr. Marygold Walsh-Dilley, University of New Mexico  
+Dr. Marygold Walsh-Dilley, University of New Mexico <br>
 *Associate Professor, Department of Geography & Environmental Studies* 
 
 Casey Holland, Chispas Farm  
