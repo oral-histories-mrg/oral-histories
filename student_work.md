@@ -10,4 +10,8 @@ thumbnail: assets/images/Cleve-van_construction-tower-babel.jpg
 
 ## Student Work
 
-Content about student work 
+Summary of the student's contributions to the website.
+
+{% assign all_pages = site.pages %} {% assign cards = all_pages | where_exp: "p", "p.path contains 'sust-student-work/'" %}
+
+{% include nav/card-grid.html cards=cards %}
