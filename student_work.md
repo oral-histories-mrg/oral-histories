@@ -10,7 +10,7 @@ thumbnail: assets/images/Cleve-van_construction-tower-babel.jpg
 
 ## Student Work
 
-Summary of the student's contributions to the website.
+A sentence or two that summarizes the students' contributions to the website.
 
 {% assign all_pages = site.pages %} {% assign cards = all_pages | where_exp: "p", "p.path contains 'sust-student-work/'" %}
 
