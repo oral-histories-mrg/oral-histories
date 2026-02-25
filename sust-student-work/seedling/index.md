@@ -8,9 +8,9 @@ summary: Perfect for beginners getting comfortable with Markdown and digital ess
 header-image: images/seedling-card.png
 header-title:
 header-position: 0px
+toc-section: first
 geo: [37.88, -81.08]
 placename: New River Gorge National Park
-toc-section: first
 tags:
     - history
     - campus
